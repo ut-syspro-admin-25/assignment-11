@@ -12,7 +12,7 @@ Inter-process communication, Lock
 ## Assignment
 
 - Slide: [here](https://drive.google.com/drive/folders/1xoDMwppyna0dQaNWYj1F087QfhcSxTKQ?usp=sharing)(ECCS email required) 
-- Date due: ***2024/07/24 23:59*** (tentative: check [here](https://github.com/ut-syspro-admin-25/assignment-11) for the latest deadline.)
+- Date due: ***2024/07/21 23:59*** (tentative: check [here](https://github.com/ut-syspro-admin-25/assignment-11) for the latest deadline.)
 
 ## How to Transfer
 
